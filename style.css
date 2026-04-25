@@ -115,12 +115,10 @@ button:hover {
   align-items: flex-start;
 }
 
-/* オリジナルサイズ表示 */
 #gallery img {
-  width: auto;
+  width: 100%;
   height: auto;
-  max-width: none;
-  max-height: none;
+  max-width: 100%;
 
   border-radius: 8px;
   background: white;
